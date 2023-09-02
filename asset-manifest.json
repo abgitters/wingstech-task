@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wingstech-task/static/css/main.073c9b0a.css",
+    "main.js": "/wingstech-task/static/js/main.802f9212.js",
+    "static/js/787.d88df92a.chunk.js": "/wingstech-task/static/js/787.d88df92a.chunk.js",
+    "index.html": "/wingstech-task/index.html",
+    "main.073c9b0a.css.map": "/wingstech-task/static/css/main.073c9b0a.css.map",
+    "main.802f9212.js.map": "/wingstech-task/static/js/main.802f9212.js.map",
+    "787.d88df92a.chunk.js.map": "/wingstech-task/static/js/787.d88df92a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.802f9212.js"
+  ]
+}
